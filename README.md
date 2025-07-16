@@ -20,7 +20,7 @@ I'm a student of Informatics Engineering who enjoys creating simple but function
 
 ## 🚀 My Projects
 
-### 🧺 [Laundry Management System](https://github.com/sazuura/laundry-management-system)
+### 🧺 [Laundry Management System](https://github.com/sazuura/laundry)
 Web kasir laundry berbasis HTML, CSS, dan JavaScript. Mendukung input data pelanggan, jenis layanan, dan perhitungan total harga.
 
 > 💡 Tech: HTML, CSS, JS, LocalStorage  
