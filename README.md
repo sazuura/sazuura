@@ -11,9 +11,9 @@ I'm a student of Informatics Engineering who enjoys creating simple but function
 ---
 
 ## 🔧 Tech Stack
-- HTML, CSS, JavaScript
-- Bootstrap, Tailwind (basic)
-- Firebase (basic), MySQL
+- HTML, CSS, JavaScript, PHP
+- Bootstrap, Laravel
+- MySQL
 - Git & GitHub
 
 ---
